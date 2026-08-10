@@ -1,105 +1,129 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rogo.ai/</loc>
+    <loc>https://rogo.com/</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/product</loc>
+    <loc>https://rogo.com/product</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/felix</loc>
+    <loc>https://rogo.com/felix</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/company</loc>
+    <loc>https://rogo.com/company</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/customers</loc>
+    <loc>https://rogo.com/customers</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/customers/baird-equity-research</loc>
+    <loc>https://rogo.com/customers/baird-equity-research</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/customers/baird-investment-banking</loc>
+    <loc>https://rogo.com/customers/baird-investment-banking</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/security</loc>
+    <loc>https://rogo.com/security</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/security-council</loc>
+    <loc>https://rogo.com/security-council</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/demo</loc>
+    <loc>https://rogo.com/demo</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/careers</loc>
+    <loc>https://rogo.com/careers</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/felix-conference</loc>
+    <loc>https://rogo.com/felix-conference</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news</loc>
+    <loc>https://rogo.com/news</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/introducing-rogo%E2%80%99s-credit-center</loc>
+    <loc>https://rogo.com/news/deal-room</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/announcing-rogo%E2%80%99s-integration-with-ss-c-intralinks</loc>
+    <loc>https://rogo.com/news/claude-opus-5</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/introducing-model-broker</loc>
+    <loc>https://rogo.com/news/rogo-intelligence</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/fable-5-is-now-available-in-rogo</loc>
+    <loc>https://rogo.com/news/dow-jones-newswires</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/may-product-update</loc>
+    <loc>https://rogo.com/news/announcing-rogo%E2%80%99s-partnership-with-mt-newswires</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/introducing-the-big-finance-benchmark</loc>
+    <loc>https://rogo.com/news/snowflake-mcp-is-now-available-in-rogo</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/deepening-our-partnership-with-pitchbook</loc>
+    <loc>https://rogo.com/news/gpt-5.6-sol-terra-and-luna-now-available-in-rogo</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/announcing-rogo%E2%80%99s-partnership-with-daloopa</loc>
+    <loc>https://rogo.com/news/agent-library</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/the-next-phase-of-ai-transformation-in-finance</loc>
+    <loc>https://rogo.com/news/introducing-rogo%E2%80%99s-credit-center</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/series-d</loc>
+    <loc>https://rogo.com/news/announcing-rogo%E2%80%99s-integration-with-ss-c-intralinks</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/gpt-5.5-now-available-in-rogo</loc>
+    <loc>https://rogo.com/news/introducing-model-broker</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/opus-4.7-now-available-in-rogo</loc>
+    <loc>https://rogo.com/news/fable-5-is-now-available-in-rogo</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/introducing-sisyphus-autonomous-security-for-financial-ai-infrastructure</loc>
+    <loc>https://rogo.com/news/may-product-update</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/march-product-update</loc>
+    <loc>https://rogo.com/news/introducing-the-big-finance-benchmark</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/rogo-achieves-eu-ai-act-compliance</loc>
+    <loc>https://rogo.com/news/deepening-our-partnership-with-pitchbook</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/expanding-rogo%E2%80%99s-coverage-across-european-markets-with-our-acquisition-of-plux</loc>
+    <loc>https://rogo.com/news/announcing-rogo%E2%80%99s-partnership-with-daloopa</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/announcing-rogo%E2%80%99s-partnership-with-fitch-solutions</loc>
+    <loc>https://rogo.com/news/the-next-phase-of-ai-transformation-in-finance</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/rogo-acquires-offset</loc>
+    <loc>https://rogo.com/news/series-d</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/february-product-update</loc>
+    <loc>https://rogo.com/news/gpt-5.5-now-available-in-rogo</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/announcing-rogo%E2%80%99s-partnership-with-third-bridge</loc>
+    <loc>https://rogo.com/news/opus-4.7-now-available-in-rogo</loc>
   </url>
   <url>
-    <loc>https://rogo.ai/news/scaling-rogo-to-build-the-future-of-investment-banking-our-75m-series-c-and-european-expansion</loc>
+    <loc>https://rogo.com/news/introducing-sisyphus-autonomous-security-for-financial-ai-infrastructure</loc>
+  </url>
+  <url>
+    <loc>https://rogo.com/news/march-product-update</loc>
+  </url>
+  <url>
+    <loc>https://rogo.com/news/expanding-rogo%E2%80%99s-coverage-across-european-markets-with-our-acquisition-of-plux</loc>
+  </url>
+  <url>
+    <loc>https://rogo.com/news/rogo-achieves-eu-ai-act-compliance</loc>
+  </url>
+  <url>
+    <loc>https://rogo.com/news/announcing-rogo%E2%80%99s-partnership-with-fitch-solutions</loc>
+  </url>
+  <url>
+    <loc>https://rogo.com/news/rogo-acquires-offset</loc>
+  </url>
+  <url>
+    <loc>https://rogo.com/news/february-product-update</loc>
+  </url>
+  <url>
+    <loc>https://rogo.com/news/announcing-rogo%E2%80%99s-partnership-with-third-bridge</loc>
+  </url>
+  <url>
+    <loc>https://rogo.com/news/scaling-rogo-to-build-the-future-of-investment-banking-our-75m-series-c-and-european-expansion</loc>
   </url>
 </urlset>
